@@ -2,6 +2,8 @@
 
 A simple dark mode calculator that shows how much each value weighs on the total. It was primarily made to get an idea of the percentages of investments.
 
+**Live demo:** https://davidbitner.github.io/percentages/
+
 ## Features
 
 - Add and remove fields as needed, from 1 up to 12
